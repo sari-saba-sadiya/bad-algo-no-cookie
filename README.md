@@ -1,4 +1,4 @@
-# bad-algo-no-cookie
+# Bad Algo, No Cookie!
 
 Algo | Dev | Cost | Supposed function | What is did
 --- | --- | --- | --- | ---
